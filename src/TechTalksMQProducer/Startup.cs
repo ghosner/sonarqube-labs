@@ -48,7 +48,6 @@ namespace TechTalksAPI
             app.UseHttpMetrics();
 
             // Expose deault Prometheus Metrics
-            // app.UseMetricServer();
 
             app.UseEndpoints(endpoints =>
             {

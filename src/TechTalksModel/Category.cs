@@ -10,16 +10,7 @@ namespace TechTalksModel
 
 
         public string Process() {
-             var a = false;
-
-             if(!a){
-                return "";
-             }
-
-             if(a == false)
-                return "";
-
-                return "";
+             return "";
         }
 
     }
